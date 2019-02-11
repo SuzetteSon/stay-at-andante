@@ -1,5 +1,9 @@
 .jumbotron-fluid {
-    background-image: url("../view.jpg");
-    background-size: cover;
-    color: white
+  background-image: url("../view.jpg");
+  background-size: cover;
+  color: white;
+}
+
+img {
+    max-width: 100%;
 }
